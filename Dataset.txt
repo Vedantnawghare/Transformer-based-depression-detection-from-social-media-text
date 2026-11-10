@@ -1,0 +1,38 @@
+DATASETS USED IN THIS PROJECT
+
+
+This project uses two Kaggle datasets related to the MDDL (Matter about Depression) dataset.
+
+1. MDDL Experiment 1 Splits
+   Kaggle Link:
+   https://www.kaggle.com/datasets/vedantnawghare35/mddl-experiment-1-splits
+
+   Description:
+   Contains the predefined user-level training, validation, and testing
+   splits used for controlled and reproducible experiments. These fixed
+   partitions help prevent data leakage by ensuring that users do not
+   overlap across the three sets.
+
+2. Depression Detection MDDL Final PBL
+   Kaggle Link:
+   https://www.kaggle.com/datasets/vedantnawghare35/depression-detection-mddl-final-pbl
+
+   Description:
+   Contains the MDDL dataset resources used for depression detection
+   experiments, including the social-media text data and related
+   materials required for preprocessing, feature extraction, and
+   transformer-based model evaluation.
+
+
+PROJECT USAGE
+
+
+Both datasets support the experimental pipeline for user-level
+depression detection using seven transformer architectures,
+four text representation conditions, and 53 user-level metadata
+features.
+
+NOTE:
+The datasets are hosted separately on Kaggle and are not included
+directly in this GitHub repository. Download them from the links
+provided above and follow their respective access and usage conditions.
